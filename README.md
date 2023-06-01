@@ -1,4 +1,4 @@
-# CreditMusicApiApp
+# CreditMusicRestApi
 
 This app was created with Bootify.io - tips on working with the code [can be found here](https://bootify.io/next-steps/). Feel free to contact us for further questions.
 
@@ -23,7 +23,7 @@ mvnw clean package
 The application can then be started with the following command - here with the profile `production`:
 
 ```
-java -Dspring.profiles.active=production -jar ./target/credit-music-api-app-0.0.1-SNAPSHOT.jar
+java -Dspring.profiles.active=production -jar ./target/credit-music-rest-api-0.0.1-SNAPSHOT.jar
 ```
 
 ## Further readings
